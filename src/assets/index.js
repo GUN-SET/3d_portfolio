@@ -1,11 +1,12 @@
-import logo from './logo.svg'
 import backend from './backend.png'
+import close from './close.svg'
 import creator from './creator.png'
+import demo from './demo.png'
+import github from './github.png'
+import logo from './logo.svg'
+import menu from './menu.svg'
 import mobile from './mobile.png'
 import web from './web.png'
-import github from './github.png'
-import menu from './menu.svg'
-import close from './close.svg'
 
 import css from './tech/css.png'
 import docker from './tech/docker.png'
@@ -18,17 +19,24 @@ import nodejs from './tech/nodejs.png'
 import reactjs from './tech/reactjs.png'
 import redux from './tech/redux.png'
 import tailwind from './tech/tailwind.png'
+import threejs from './tech/threejs.png'
 import typescript from './tech/typescript.png'
-import threejs from './tech/threejs.svg'
+import nestjs from './tech/nestjs.png'
+import nextjs from './tech/nextjs.png'
+import postgresql from './tech/postgresql.png'
 
 import meta from './company/meta.png'
 import shopify from './company/shopify.png'
 import starbucks from './company/starbucks.png'
 import tesla from './company/tesla.png'
 
-import carrent from './carrent.png'
-import jobit from './jobit.png'
-import tripguide from './tripguide.png'
+import onlineCinema from './onlineCinema.png'
+import weatherApp from './weatherApp.png'
+import marvelHooks from './marvelHooks.png'
+import marvelClasses from './marvelClasses.png'
+import portfolio from './3DPortfolio.png'
+import funiro from './funiro.png'
+import redflix from './redflix.png'
 
 export {
 	logo,
@@ -56,7 +64,15 @@ export {
 	shopify,
 	starbucks,
 	tesla,
-	carrent,
-	jobit,
-	tripguide
+	onlineCinema,
+	weatherApp,
+	marvelHooks,
+	marvelClasses,
+	portfolio,
+	funiro,
+	redflix,
+	postgresql,
+	nextjs,
+	nestjs,
+	demo
 }
